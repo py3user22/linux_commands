@@ -1,2 +1,3 @@
 # linux_commands
-My collection of linux commands and key shortcuts
+My collection of linux commands with examples
+and key shortcuts.
