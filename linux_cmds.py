@@ -126,7 +126,10 @@ print("view existing tar archive          tar tvf archive_name.tar")
 
 print("\n-----------------------------------------------")
 
+print("to check the MAC address            ifconfig")
 
+print("to print a pdf in openoffice        file> export as pdf")
+print("")
 print("")
 print("")
 
