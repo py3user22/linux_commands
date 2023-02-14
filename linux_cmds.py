@@ -53,9 +53,10 @@ print("cancel a print job                       cancel job-id  or  lprm job-id")
 
 print("move a print job to new printer          lpmove job-id newprinter")
 
-print("update all apps                          sudo apt-update")
+print("update all apps                          sudo apt update")
 
-print("upgrade all apps                         sudo apt-upgrade")
+print("upgrade all apps                         sudo apt upgrade")
+print("update your system			sudo apt update && sudo apt upgrade")
 
 print("see the weather                          curl.wttr.in")
 print("see the weather2                         inxi -w")
@@ -81,8 +82,9 @@ print("list files and sort by date& time        ls -gt")
 
 print("help manual command to get details       man ls")
 
-
-
+print("cut command from nano window             F9")
+print("paste command from nano window           F10")
+print("full screen & fs exit on any window      F11")
 
 print("to see all prior commands from session   history")
 
@@ -129,9 +131,12 @@ print("\n-----------------------------------------------")
 print("to check the MAC address            ifconfig")
 
 print("to print a pdf in openoffice        file> export as pdf")
-print("")
-print("")
-print("")
+
+print("to install speedtest CLI		   sudo apt install speedtest-cli")
+
+print("after installation of speedtest     speedtest-cli ,and enter")
+
+print("get the guide of all feature        man speedtest")
 
 
 
